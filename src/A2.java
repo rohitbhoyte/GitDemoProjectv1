@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	{
 		if(a==i)
 		{
-			System.out.println("Condition is true");
+			System.out.println("Condition is y");
 			int b=a*i;
 			System.out.println(b);
 		}else
